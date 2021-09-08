@@ -1,0 +1,1 @@
+To use this program you have to download the image "source3.png" and in the code change the path of imageSource to where you downloadted it, otherwise there will be no thresholder to compare the pixels.
