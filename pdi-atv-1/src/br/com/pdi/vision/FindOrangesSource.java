@@ -59,7 +59,7 @@ public class FindOrangesSource {
         thresholderBlue = (int)calculateAverage(blueList);
 
 
-        // Get an range of shaders of orange from our source
+        // Get the range of shaders of orange from our source
         // I tried 3 different ways to get this info
         // The best one gets the difference between the max rgb color and the avarege RGB colors
 
